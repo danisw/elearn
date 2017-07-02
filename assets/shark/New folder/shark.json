@@ -1,0 +1,28 @@
+{"frames": {
+
+"h1.gif":
+{
+	"frame": {"x":1,"y":1,"w":400,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":350},
+	"sourceSize": {"w":400,"h":350}
+},
+"h2.gif":
+{
+	"frame": {"x":403,"y":1,"w":400,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":350},
+	"sourceSize": {"w":400,"h":350}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "shark.png",
+	"format": "RGBA8888",
+	"size": {"w":804,"h":352},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a7a696ab10cd79aebd972dbe493dd26:de4f397d130a7f966cb5f8cb9947bc79:58f3aff14b3039557d3d690e6ef8fb0d$"
+}
+}
